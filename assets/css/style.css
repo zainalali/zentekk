@@ -295,11 +295,11 @@ a:focus {
 #twrap {
 	background: url(../img/t-back.jpg) no-repeat center top;
 	margin-top: 0px;
-	padding-top:60px;
+	padding-top: 10px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 450px;
+	min-height: 50px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
@@ -331,6 +331,9 @@ a:focus {
 	margin-top: 0px;
 	padding-top: 80px;
 	padding-bottom: 100px;
+	margin-left: 15px;
+	margin-right: 15px;
+	box-shadow: 0 8px 16px 0 rgba(0, 179, 254, 0.2), 0 12px 40px 0 rgba(0, 179, 254, 0.39);
 }
 
 #cwrap h3 {
